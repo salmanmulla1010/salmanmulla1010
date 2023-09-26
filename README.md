@@ -52,6 +52,6 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanmulla1010&show_icons=true&locale=en" alt="salmanmulla1010" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanmulla1010&" alt="salmanmulla1010" /></p>
+
 
 
